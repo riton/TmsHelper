@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TmsHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="home_text">Choose file to import data from</string>
+    <string name="title_activity_display_vid">Volume List</string>
+    <string name="pick_file_btn_text">Select File</string>
+
+</resources>
